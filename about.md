@@ -1,23 +1,23 @@
 ---
 title: About
-date: 2017-11-01 03:00:00 +0000
+date: '2017-11-01T03:00:00.000+00:00'
 banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+heading: About the Drown Lab
+sub_heading: ''
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
-publish_date: 2017-12-01 04:00:00 +0000
+textline: A multidisciplinary center of experts who are committed to making both basic
+  and translational discoveries.
+publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
-  navigation:
-    identifier: _about
-    weight: 2
   footer:
     identifier: _about
     weight: 3
+  navigation:
+    identifier: _about
+    weight: 2
+
 ---
+The Drown Research Group is a interdisciplinary team of scientists tackling challenging problems facing human health and disease. At the center of our work is a belief in the **_proteoform hypothesis_**: that proteoforms are more tightly linked to phenotype than any other biomolecule and therefore represent the richest source of discovery.
 
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
-
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+Students in the Drown lab get to learn through developing cutting edge projects and technologies.
