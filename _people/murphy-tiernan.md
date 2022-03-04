@@ -1,18 +1,18 @@
 ---
-title: Murphy Tiernan
-date: 2017-11-14 10:47:11 +0000
+title: Bryon Drown
+date: '2017-11-14T10:47:11.000+00:00'
 role:
 - advisor
 - staff
-thumbnail: "/uploads/2017/11/14/andrew-robles-300868.jpg"
-sub_heading: Professor
-email: murphy@belkirkcollege.com
+thumbnail: "/uploads/2022/03/04/drown-headshot.jpg"
+sub_heading: Assistant Professor
+email: bryon.drown@gmail.com
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
+Bryon Drown joined Purdue Chemistry in 2022 as an Assistant Professor.
 
-Doctor Murphy Tiernan joined Belkirk in 2015 as a Professor.
+He attended Wheaton College (Wheaton, IL) where he received his B.S. in Chemistry in 2012. From Wheaton, he moved to the University of Illinois at Urbana-Champaign to conduct graduate studies under the direction of Professor Paul Hergenorther. While at the University of Illinois, Bryon conducted research in methods to overcome the intrinsic mechanisms by which Gram-negative bacteria evade antibiotics. By discovering the rules that govern small-molecule accumulation, he successfully transformed Gram-positive-only agents into broad-spectrum antibiotics. He graduated with his Ph.D. in Chemistry in 2019 and moved to Northwestern University as a NCI NRSA Postdoctoral Fellow to work with Professor Neil Kelleher in the Departments of Chemistry and Molecular Biosciences. While at Northwestern, Bryon performed method development in top-down proteomics with a particular focus on applying individual ion mass spectrometry to targeted proteomics studies.
 
-He received his Ph.D in Civil Engineering from Stanford in 2003, and also holds a master's degree in Mechanical Engineering.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Bryon established his own lab in the Department of Chemistry at Purdue University in 2022 where he is utilizing top-down mass spectrometry techniques to perform chemical proteomics.
