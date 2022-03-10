@@ -18,10 +18,14 @@ collections:
     output: true
     permalink: "/about/:path/"
   posts:
-    output: true
+    output: false
   projects:
     output: true
     permalink: "/projects/:path/"
+  publications:
+    output: true
+    permalink: "/publications/:path/"
+    sort_by: number
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
