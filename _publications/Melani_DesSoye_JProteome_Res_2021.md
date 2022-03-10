@@ -8,6 +8,5 @@ year: 2022
 vol: 21
 pages: 274-288
 link: https://doi.org/10.1021/acs.jproteome.1c00882
-layout: publication
 
 ---

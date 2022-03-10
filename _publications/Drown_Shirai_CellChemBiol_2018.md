@@ -8,6 +8,5 @@ year: 2018
 vol: 25
 pages: 1562-1570
 link: https://doi.org/10.1016/j.chembiol.2018.09.008
-layout: publication
 
 ---

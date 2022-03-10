@@ -8,6 +8,5 @@ year: 2018
 vol: 25
 pages: 1533-1546
 link: 
-layout: publication
 
 ---

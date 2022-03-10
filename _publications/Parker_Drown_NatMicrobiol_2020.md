@@ -8,6 +8,5 @@ year: 2020
 vol: 5
 pages: 67-75
 link: https://doi.org/10.1038/s41564-019-0604-5
-layout: publication
 
 ---

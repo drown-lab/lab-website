@@ -8,6 +8,5 @@ year: 2015
 vol: 119
 pages: 10448
 link: https://doi.org/10.1021/acs.jpcb.5b04955
-layout: publication
 
 ---

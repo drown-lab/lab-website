@@ -14,7 +14,7 @@ layout: default
             <div class="container pure-g">
                 {% assign publication_items = site.publications | sort: 'number' | reverse %}
                 {% for publication in  publication_items %}
-                <div class="pure-u-1 publication">
+                <div class="pure-u-1 publication content-narrow">
                     {{ publication.number}}. 
                     {{ publication.authors }}
                     "<a href="{{publication.link}}">{{publication.title}}</a>"

@@ -8,6 +8,5 @@ year: 2017
 vol: 545
 pages: 299
 link: https://doi.org/10.1038/nature22308
-layout: publication
 
 ---

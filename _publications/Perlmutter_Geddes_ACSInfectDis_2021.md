@@ -8,6 +8,5 @@ year: 2021
 vol: 7
 pages: 162-173
 link: https://doi.org/10.1021/acsinfecdis.0c00715
-layout: publication
 
 ---

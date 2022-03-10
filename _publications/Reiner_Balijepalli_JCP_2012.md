@@ -8,6 +8,5 @@ year: 2012
 vol: 137
 pages: 214903
 link: https://doi.org/10.1063/1.4766363
-layout: publication
 
 ---

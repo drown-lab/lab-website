@@ -8,6 +8,5 @@ year: 2018
 vol: 115
 pages: 6530-6532
 link: https://doi.org/10.1073/pnas.1807278115
-layout: publication
 
 ---

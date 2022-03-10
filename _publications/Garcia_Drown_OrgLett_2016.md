@@ -8,6 +8,5 @@ year: 2016
 vol: 18
 pages: 4852
 link: https://doi.org/10.1021/acs.orglett.6b02333
-layout: publication
 
 ---

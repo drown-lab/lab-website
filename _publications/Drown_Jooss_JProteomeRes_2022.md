@@ -7,7 +7,6 @@ authors: Drown, B. S., Jooß, K., Melani, R.D., Lloyd-Jones, C., Camarillo, J.M.
 year: 2022
 pages: preprint
 link: https://doi.org/10.26434/chemrxiv-2022-svlqz
-layout: publication
 
 ---
  "Mapping the Proteoform Landscape of Five Human Tissues" ChemRxiv 2022, preprint.
