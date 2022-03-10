@@ -3,11 +3,11 @@ title: Bryon Drown
 date: '2017-11-14T10:47:11.000+00:00'
 role:
 - advisor
-- staff
+- current
 thumbnail: "/uploads/2022/03/04/drown-headshot.jpg"
 sub_heading: Assistant Professor
 email: bryon.drown@gmail.com
-linkedin: ''
+linkedin: 'https://www.linkedin.com/in/bryon-drown-9aa73220/'
 layout: person
 
 ---

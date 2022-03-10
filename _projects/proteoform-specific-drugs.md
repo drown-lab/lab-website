@@ -18,3 +18,8 @@ undoubtedly successful, this approach does not fully exploit the differential
 expression of proteoforms in disease states. We are developing improved methods
 for measuring proteoform-specific interactions of small-molecule inhibitors and
 exploring new chemical matter that can achieve selective inhibition.
+
+# Skills to Learn
+ - Organic synthesis
+ - Mammalian cell culture
+ - Protein mass spectrometry

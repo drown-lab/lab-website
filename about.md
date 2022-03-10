@@ -19,4 +19,4 @@ menu:
 ---
 The Drown Research Group is a interdisciplinary team of scientists tackling challenging problems facing human health and disease. At the center of our work is a belief in the **_proteoform hypothesis_**: that proteoforms are more tightly linked to phenotype than any other biomolecule and therefore represent the richest source of discovery.
 
-Students in the Drown lab get to learn through developing cutting edge projects and technologies.
+Students in the Drown lab will learn cutting edge chemical biology techniques and be prepared for modern drug discovery. If you are interested in joining the Drown Research Group, [contact Prof. Drown](mailto:{{ site.data.information.email }}).
