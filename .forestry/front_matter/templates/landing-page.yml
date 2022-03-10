@@ -12,11 +12,11 @@ fields:
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: Drown Lab
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: Purdue Chemistry
 - type: file
   name: banner_image
   label: Hero Image
