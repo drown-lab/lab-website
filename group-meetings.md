@@ -17,6 +17,29 @@ in the areas of chemical biology and proteomics.
 
 ## Schedule
 
+### September 26, 2022 - Mass Tag Quantification
+
+#### MS1 quantification
+
+- ICAT
+  - Gygi, S. P.; Aebersold, R. [Quantitative Analysis of Complex Protein Mixtures Using Isotope-Coded Affinity Tags](https://doi.org/10.1038/13690). Nat. Biotechnol. 1999, 17 (10), 994–999.
+- SILAC
+  - Ong, S.-E.; Mann, M. [Stable Isotope Labeling by Amino Acids in Cell Culture, SILAC, as a Simple and Accurate Approach to Expression Proteomics](https://doi.org/10.1074/mcp.M200025-MCP200). Mol. Cell. Proteomics 2002, 1 (5), 376–386.
+- IsoTOP-ABPP
+  - Weerapana, E.; Cravatt, B. F. [Quantitative Reactivity Profiling Predicts Functional Cysteines in Proteomes](https://doi.org/10.1038/nature09472). Nature 2010, 468 (7325), 790–795.
+- NeuCode
+  - Hebert, A. S.; Coon, J. J. [Neutron-Encoded Mass Signatures for Multiplexed Proteome Quantification](https://doi.org/10.1021/acs.analchem.5b04773). Nat. Methods 2013, 10 (4), 332–334.
+  - Potts, G. K.; Coon, J. J. [Neucode Labels for Multiplexed, Absolute Protein Quantification](https://doi.org/10.1021/acs.analchem.5b04773). Anal. Chem. 2016, 88 (6), 3295–3303.
+
+#### MS2 quantification
+
+- i-TRAQ
+  - Ross, P. L.; Pappin, D. J. [Multiplexed Protein Quantitation in Saccharomyces Cerevisiae Using Amine-Reactive Isobaric Tagging Reagents](https://doi.org/10.1074/mcp.M400129-MCP200). Mol. Cell. Proteomics 2004, 3 (12), 1154–1169.
+- TMT
+  - Thompson, A.; Hamon, C. [Tandem Mass Tags: A Novel Quantification Strategy for Comparative Analysis of Complex Protein Mixtures by MS/MS](https://doi.org/10.1021/ac0262560). Anal. Chem. 2003, 75 (8), 1895–1904.
+  - McAlister, G. C.; Gygi, S. P. [MultiNotch MS3 Enables Accurate, Sensitive, and Multiplexed Detection of Differential Expression across Cancer Cell Line Proteomes](https://doi.org/10.1021/ac502040v). Anal. Chem. 2014, 86 (14), 7150–7158.
+  - Li, J.; Paulo, J. A. [TMTpro Reagents: A Set of Isobaric Labeling Mass Tags Enables Simultaneous Proteome-Wide Measurements across 16 Samples](https://doi.org/10.1038/s41592-020-0781-4). Nat. Methods 2020, 17 (4), 399–404.
+
 ### September 19, 2022 - Shotgun Proteomics - [John Yates, III](https://www.scripps.edu/faculty/yates/)
 
 John Yates' research group pioneered the development and application of shotgun proteomics. They are produced widely-adopted analysis software and separation techniques.
