@@ -17,6 +17,11 @@ in the areas of chemical biology and proteomics.
 
 ## Schedule
 
+
+### October 3, 2022 - "N-terminomics"
+
+- Winkels, K.; Koudelka, T.; Kaulich, P. T.; Leippe, M.; Tholey, A. [Validation of Top-Down Proteomics Data by Bottom-Up-Based N-Terminomics Reveals Pitfalls in Top-Down-Based Terminomics Workflows](https://pubs.acs.org/doi/10.1021/acs.jproteome.2c00277). J. Proteome Res. 2022, 21 (9), 2185–2196.
+
 ### September 26, 2022 - Mass Tag Quantification
 
 #### MS1 quantification
