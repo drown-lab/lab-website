@@ -17,6 +17,7 @@ in the areas of chemical biology and proteomics.
 
 ## Schedule
 
+## October 10, 2022 - Fall Break (no meeting)
 
 ### October 3, 2022 - "N-terminomics"
 
