@@ -17,7 +17,14 @@ in the areas of chemical biology and proteomics.
 
 ## Schedule
 
-## October 10, 2022 - Fall Break (no meeting)
+### October 17, 2022 - ADP-ribosyl proteomics
+
+- Kliza, K. W.; Liu, Q.; Roosenboom, L. W. M.; Jansen, P. W. T. C.; Filippov, D. V.; Vermeulen, M. [Reading ADP-Ribosylation Signaling Using Chemical Biology and Interaction Proteomics](http://dx.doi.org/10.1016/j.molcel.2021.08.037). Mol. Cell 2021, 81 (21), 4552–4567.e8.
+- Liu, Q.; van der Marel, G. A.; Filippov, D. V. [Chemical ADP-Ribosylation: Mono-ADPr-Peptides and Oligo-ADP-Ribose](http://dx.doi.org/10.1039/c9ob00501c). Org. Biomol. Chem. 2019, 17 (22), 5460–5474.
+- Lambrecht, M. J.; Brichacek, M.; Barkauskaite, E.; Ariza, A.; Ahel, I.; Hergenrother, P. J. [Synthesis of Dimeric ADP-Ribose and Its Structure with Human poly(ADP-Ribose) Glycohydrolase](http://dx.doi.org/10.1021/ja512528p). J. Am. Chem. Soc. 2015, 137 (10), 3558–3564.
+- Kistemaker, H. A. V.; Lameijer, L. N.; Meeuwenoord, N. J.; Overkleeft, H. S.; van der Marel, G. A.; Filippov, D. V. [Synthesis of Well-Defined Adenosine Diphosphate Ribose Oligomers](https://onlinelibrary.wiley.com/doi/10.1002/anie.201412283). Angew. Chem. Int. Ed Engl. 2015, 54 (16), 4915–4918.
+
+### October 10, 2022 - Fall Break (no meeting)
 
 ### October 3, 2022 - "N-terminomics"
 
