@@ -17,6 +17,10 @@ in the areas of chemical biology and proteomics.
 
 ## Schedule
 
+### October 24, 2022 - Unnatural Amino Acid Incorporation
+
+- Lang, K.; Chin, J. W. [Cellular Incorporation of Unnatural Amino Acids and Bioorthogonal Labeling of Proteins](http://dx.doi.org/10.1021/cr400355w). Chem. Rev. 2014, 114 (9), 4764–4806.
+
 ### October 17, 2022 - ADP-ribosyl proteomics
 
 - Kliza, K. W.; Liu, Q.; Roosenboom, L. W. M.; Jansen, P. W. T. C.; Filippov, D. V.; Vermeulen, M. [Reading ADP-Ribosylation Signaling Using Chemical Biology and Interaction Proteomics](http://dx.doi.org/10.1016/j.molcel.2021.08.037). Mol. Cell 2021, 81 (21), 4552–4567.e8.
