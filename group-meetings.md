@@ -17,6 +17,8 @@ in the areas of chemical biology and proteomics.
 
 ## Schedule
 
+### October 31, 2022 - No meeting
+
 ### October 24, 2022 - Unnatural Amino Acid Incorporation
 
 - Lang, K.; Chin, J. W. [Cellular Incorporation of Unnatural Amino Acids and Bioorthogonal Labeling of Proteins](http://dx.doi.org/10.1021/cr400355w). Chem. Rev. 2014, 114 (9), 4764–4806.
