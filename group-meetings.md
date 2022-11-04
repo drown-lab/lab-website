@@ -17,6 +17,10 @@ in the areas of chemical biology and proteomics.
 
 ## Schedule
 
+### November 7, 2022 - Proteomics of Prenylated Proteins
+
+- Storck, E. M.; Tate, E. W. [Dual Chemical Probes Enable Quantitative System-Wide Analysis of Protein Prenylation and Prenylation Dynamics](nature.com/articles/s41557-019-0237-6). Nat. Chem. 2019, 11 (6), 552–561.
+
 ### October 31, 2022 - No meeting
 
 ### October 24, 2022 - Unnatural Amino Acid Incorporation
