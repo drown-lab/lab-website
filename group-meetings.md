@@ -10,12 +10,16 @@ menu:
 
 ---
 
-The Drown Lab meets weekly on Mondays at 5pm in 1152 BRWN
+The Drown Lab meets weekly on Mondays at 4pm in 102 BIND
 
 In the period before students join research group, Dr. Drown will present literature reviews
 in the areas of chemical biology and proteomics.
 
 ## Schedule
+
+### November 14, 2022 - XLMS for modeling interactions
+
+- Mintseris, J.; Gygi, S. P. [High-Density Chemical Cross-Linking for Modeling Protein Interactions](http://dx.doi.org/10.1073/pnas.1902931116). Proc. Natl. Acad. Sci. U. S. A. 2020, 117 (1), 93–102.
 
 ### November 7, 2022 - Proteomics of Prenylated Proteins
 
