@@ -17,6 +17,8 @@ in the areas of chemical biology and proteomics.
 
 ## Schedule
 
+### November 28, 2022 - No Meeting
+
 ### November 21, 2022 - Native MS of Membrane Proteins
 
 - Yen, H.-Y.; Liko, I.; Song, W.; Kapoor, P.; Almeida, F.; Toporowska, J.; Gherbi, K.; Hopper, J. T. S.; Charlton, S. J.; Politis, A.; Sansom, M. S. P.; Jazayeri, A.; Robinson, C. V. [Mass Spectrometry Captures Biased Signalling and Allosteric Modulation of a G-Protein-Coupled Receptor](https://www.nature.com/articles/s41557-022-01041-9). Nat. Chem. 2022. https://doi.org/10.1038/s41557-022-01041-9.
