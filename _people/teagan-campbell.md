@@ -4,7 +4,7 @@ role:
 layout: person
 title: Teagan Campbell
 sub_heading: Chemistry Graduate Student
-thumbnail: "/uploads/2022/12/09/teagan-headshot.jfif"
+thumbnail: "/uploads/2022/12/14/teagan-headshot.jfif"
 email: campb571@purdue.edu
 linkedin: https://www.linkedin.com/in/teagan-campbell-2845831b8/
 
