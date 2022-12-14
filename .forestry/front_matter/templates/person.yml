@@ -36,4 +36,5 @@ fields:
   hidden: true
   default: person
 pages:
+- _people/kyle-harper.md
 - _people/teagan-campbell.md
