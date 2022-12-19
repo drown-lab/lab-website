@@ -1,6 +1,7 @@
 ---
 role:
-- staff
+- graduate
+- current
 layout: person
 title: Teagan Campbell
 sub_heading: Chemistry Graduate Student
