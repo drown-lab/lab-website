@@ -49,3 +49,22 @@
 /*# sourceMappingURL=main.css.map */
 .publication{padding:10px}
 .site-title h1{color:#000}
+table, th, td {
+    border: 1px solid;
+    padding: 4px;
+}
+th {
+letter-spacing: 2px;
+}
+
+td {
+letter-spacing: 1px;
+}
+
+tbody td {
+text-align: center;
+}
+
+tfoot th {
+text-align: right;
+}
