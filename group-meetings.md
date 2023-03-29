@@ -19,20 +19,10 @@ in the areas of chemical biology and proteomics.
 
 | Date |	Presenter |	Topic |
 | --------- | ------------ |------- |
-| 1/20	| Bryon	| Lab Overview |
-| 1/27	| Everyone	| Research |
-| 2/3	| Sara	| Literature |
-| 2/10	| Everyone	| Research |
-| 2/17	| Jake	| Literature |
-| 2/24	| Everyone	| Research |
-| 3/3	| Teagan	| Literature |
-| 3/10	| Everyone	| Research |
-| 3/17	| Gustavo	| Literature |
-| 3/24	| Everyone	| Research |
-| 3/31	| Omar	| Literature |
+| 3/31	| 	| No Meeting |
 | 4/7	| Everyone	| Research |
-| 4/14	| Bryon	| Literature |
+| 4/14	| Teagan	| Literature |
 | 4/21	| Everyone	| Research |
-| 4/28	| Teagan	| Literature |
+| 4/28	| Gustavo	| Literature |
 | 5/5	| Everyone	| Research |
-| 5/12	| Gustavo	| Literature |
+| 5/12	| Bryon	| Literature |
