@@ -5,6 +5,7 @@ role:
 layout: person
 title: Anju Sheregar
 sub_heading: Undergraduate Student
+thumbnail: "/uploads/2023/04/21/anju-headshot.jpg"
 email: ''
 linkedin: ''
 
