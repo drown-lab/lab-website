@@ -2,9 +2,10 @@
 phone: '765-496-3764'
 email: bsdrown@purdue.edu
 address_1: Bindley Bioscience Center, Rm. 290
-address_2: 1203 W. State St.
+address_2: 1203 Mitch Daniels Blvd.
 city: West Lafayette
 state: IN
 postal_code: '47906'
 country: US
 twitter: ''
+show_alumni: false

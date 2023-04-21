@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/img/bindley.jpg"
 layout: landing-page
 heading: Drown Research Group
 services:

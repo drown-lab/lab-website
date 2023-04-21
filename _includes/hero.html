@@ -42,7 +42,10 @@
 					<h2>{{ page.title }}</h2>
 					{% if page.sub_heading and page.sub_heading != "" %}
 					<h3>{{ page.sub_heading }}</h3>
-				{% endif %}
+					{% endif %}
+					{% if page.collection == 'people' and page.email and page.email != "" %}
+					<h4>Email: {{ page.email }}</h4>
+					{% endif %}
 				</div>
 			</div>
 		</div>

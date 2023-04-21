@@ -10,7 +10,7 @@
                 <h2 class="section-heading">Lab Members</h2>
                 <div class="pure-g">
                 {% assign current_people = site.people | where: "role","current" %}
-                {% assign categories = "advisor|graduate|undergrad" | split: "|" %}
+                {% assign categories = "advisor|postdoc|graduate|undergrad" | split: "|" %}
                 {% for category in categories %}
                     {% assign people = current_people | where: "role", category %}
                     {% for person in people %}
@@ -40,6 +40,41 @@
                     {% endfor %}
                 {% endfor %}
                 </div>
+                {% if site.data.information.show_alumni %}
+                <div class="pure-g"></div>
+                <h2 class="section-heading">Alumni</h2>
+                {% assign current_people = site.people | where: "role","alumni" %}
+                {% assign categories = "postdoc|graduate|undergrad" | split: "|" %}
+                {% for category in categories %}
+                    {% assign people = current_people | where: "role", category %}
+                    {% for person in people %}
+                        <div class="pure-u-1 pure-u-md-1-4">
+                            <div class="post">
+                                <div class="post-header">
+                                {% if person.thumbnail %}
+                                    <img alt="{{ person.title }}" src="{{ person.thumbnail | absolute_url }}">
+                                {% else %}
+                                    <img alt="{{ person.title }}" src="/img/placeholder-headshot.png">
+                                {% endif %}
+                                </div>
+                                <div class="post-body">
+                                    <h3>
+                                        <a href="{{ person.url | absolute_url }}">{{ person.title }}</a>
+                                    </h3>
+                                    {% if person.sub_heading %}
+                                    <div class="subtitle">
+                                        {{ person.sub_heading }}
+                                    </div>{% endif %}
+                                    <p>
+                                        {{ person.content | truncatewords: 25, "...<br><br>Continue reading →" }}
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                {% endfor %}
+                </div>
+                {% endif %}
             </div>
         </div>
     </div>
