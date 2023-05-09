@@ -1,7 +1,7 @@
 ---
 role:
 - undergrad
-- current
+- alumni
 layout: person
 title: Anju Sheregar
 sub_heading: Undergraduate Student
@@ -10,4 +10,4 @@ email: ''
 linkedin: ''
 
 ---
-Anju is a Cell, Molecular, and Developmental Biology major focused on characterizing proteoforms that bear multiple post-translational modifications.
+Anju is a Cell, Molecular, and Developmental Biology major focused on characterizing proteoforms that bear multiple post-translational modifications. She is currently a graduate student at The Ohio State University.

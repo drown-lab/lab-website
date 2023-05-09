@@ -8,4 +8,4 @@ state: IN
 postal_code: '47906'
 country: US
 twitter: ''
-show_alumni: false
+show_alumni: true

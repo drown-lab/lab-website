@@ -1,19 +1,20 @@
 ---
-title: About
+title: People
 date: '2017-11-01T03:00:00.000+00:00'
 heading: About the Drown Lab
 sub_heading: ''
-layout: landing-page
+layout: people
+group_photo: "/uploads/2023/05/09/Group-Photo-Spring-2023.jpg"
 textline: A multidisciplinary center of experts who are committed to making both basic
   and translational discoveries.
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
   footer:
-    identifier: _about
+    identifier: _people
     weight: 3
   navigation:
-    identifier: _about
+    identifier: _people
     weight: 2
 
 ---
