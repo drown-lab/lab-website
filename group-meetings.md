@@ -10,7 +10,7 @@ menu:
 
 ---
 
-The Drown Lab meets weekly on Tuesdays at 10am in BIND 102.
+The Drown Lab meets weekly on Tuesdays at 9am in BIND 102.
 
 Group meeting is an opportunity to discuss ongoing research progress, recent literature, and logistics.
 
@@ -18,16 +18,21 @@ Group meeting is an opportunity to discuss ongoing research progress, recent lit
 
 | Date | Presenter | Topic |
 | --------- | ------------ |------- |
-| 5/23 | Everyone | Research |
-| 5/30 | Jake | Literature |
-| 6/6 | Everyone | Research |
-| 6/13 | **No Meeting** |  |
-| 6/20 | Everyone | Research |
-| 6/27 | Sara | Literature |
-| 7/4 | **No Meeting** |  |
-| 7/11 | Everyone | Research |
-| 7/18 | Teagan | Literature |
-| 7/25 | Everyone | Research |
-| 8/1 | Gustavo | Literature |
-| 8/8 | Everyone | Research |
-| 8/15 | Bryon | Literature |
+| 8/22 | Everyone | Research |
+| 8/29 | Bryon | Literature |
+| 9/5 | Everyone | Research |
+| 9/12 | Jake | Literature |
+| 9/19 | Everyone | Research |
+| 9/26 | Sara | Literature |
+| 10/3 | **No Meeting** |  |
+| 10/10 | Everyone | Research |
+| 10/17 | Bryon | Literature |
+| 10/24 | Everyone | Research |
+| 10/31 | Teagan and Gustavo | Literature |
+| 11/7 | Everyone | Research |
+| 11/14 | Jake | Literature |
+| 11/21 | **No Meeting** |  |
+| 11/28 | Everyone | Research |
+| 12/5 | Sara | Literature |
+| 12/12 | Everyone | Research |
+| 12/19 | Teagan | Literature |
