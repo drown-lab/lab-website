@@ -25,16 +25,3 @@ Group meeting is an opportunity to discuss ongoing research progress, recent lit
 | 12/12 | Gustavo |
 | 12/19 | Bryon |
 | 12/26 | **No Meeting** |
-
-## Spring 2024 Schedule
-
-| Week of | Research Presenter | Literature Presenter | 
-| --------- | ------------ | ------------ |
-| 1/1 | **No Meeting** | |
-| 1/8 | Bryon | |
-| 1/15 | Teagan | Jake |
-| 1/22 | Gustavo | Sara |
-| 1/29 | Jake | Izzy |
-| 2/5 | Sara | Debapriya |
-| 2/12 | Izzy | Teagan |
-| 2/19 | Debapriya | Gustavo |
