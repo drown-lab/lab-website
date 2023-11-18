@@ -5,6 +5,7 @@ role:
 layout: person
 title: Jacob Seay
 sub_heading: PULSe Graduate Student
+class: 2022
 thumbnail: "/uploads/2023/04/21/jacob-headshot.jpg"
 email: seay@purdue.edu
 linkedin: https://www.linkedin.com/in/jacob-seay-pulse/

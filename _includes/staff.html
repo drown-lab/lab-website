@@ -12,7 +12,7 @@
                 {% assign current_people = site.people | where: "role","current" %}
                 {% assign categories = "advisor|postdoc|graduate|undergrad" | split: "|" %}
                 {% for category in categories %}
-                    {% assign people = current_people | where: "role", category %}
+                    {% assign people = current_people | where: "role", category | sort: "class" %}
                     {% for person in people %}
                         <div class="pure-u-1 pure-u-md-1-4">
                             <div class="post">
@@ -30,7 +30,13 @@
                                     {% if person.sub_heading %}
                                     <div class="subtitle">
                                         {{ person.sub_heading }}
-                                    </div>{% endif %}
+                                    </div>
+                                    {% endif %}
+                                    {% if person.class %}
+                                    <div class="subtitle">
+                                        Class of {{ person.class }}
+                                    </div>
+                                    {% endif %}
                                     <p>
                                         {{ person.content | truncatewords: 25, "...<br><br>Continue reading →" }}
                                     </p>

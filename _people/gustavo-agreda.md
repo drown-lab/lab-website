@@ -5,6 +5,7 @@ role:
 layout: person
 title: Gustavo Agreda
 sub_heading: Chemistry Graduate Student
+class: 2022
 thumbnail: "/uploads/2023/01/13/gustavo-headshot.png"
 email: gagreda@purdue.edu
 
