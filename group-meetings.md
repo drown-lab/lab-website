@@ -20,8 +20,8 @@ Group meeting is an opportunity to discuss ongoing research progress, recent lit
 | --------- | ------------ |
 | 11/14 | Jake | 
 | 11/21 | **No Meeting** | 
-| 11/28 | Sara |
-| 12/5 | Teagan |
-| 12/12 | Gustavo |
-| 12/19 | Bryon |
+| 11/28 | Research only |
+| 12/5 | Sara |
+| 12/12 | Teagan |
+| 12/19 | Gustavo |
 | 12/26 | **No Meeting** |
