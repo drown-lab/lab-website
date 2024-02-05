@@ -10,18 +10,25 @@ menu:
 
 ---
 
-The Drown Lab meets weekly on Tuesdays at 9am in BIND 102.
+The Drown Lab meets weekly on Tuesdays at 1:30pm in BIND 102.
 
 Group meeting is an opportunity to discuss ongoing research progress, recent literature, and logistics.
 
 ## Fall 2023 Schedule
 
-| Date | Literature Presenter | 
-| --------- | ------------ |
-| 11/14 | Jake | 
-| 11/21 | **No Meeting** | 
-| 11/28 | Research only |
-| 12/5 | Sara |
-| 12/12 | Teagan |
-| 12/19 | Gustavo |
-| 12/26 | **No Meeting** |
+| Date | Presenter | Topic | 
+| --------- | ------------ | ------ |
+| 1/9 | Bryon | State of the Lab |
+| 1/16 | Jake | Literature |
+| 1/23 | Teagan | Research |
+| 1/29 | Everyone | ASMS pitches |
+| 2/6 | Sara | Literature |
+| 2/13 | Gustavo | Research |
+| 2/20 | Izzy | Literature |
+| 2/27 | Jake | Research |
+| 3/5 | Debapriya | Literature |
+| 3/12 | Sara | Research |
+| 3/19 | Teagan | Literature |
+| 3/26 | Izzy | Research |
+| 4/2 | Gustavo | Literature |
+| 4/9 | Debapriya | Research |
