@@ -18,17 +18,20 @@ Group meeting is an opportunity to discuss ongoing research progress, recent lit
 
 | Date | Presenter | Topic | 
 | --------- | ------------ | ------ |
-| 1/9 | Bryon | State of the Lab |
-| 1/16 | Jake | Literature |
-| 1/23 | Teagan | Research |
-| 1/29 | Everyone | ASMS pitches |
-| 2/6 | Sara | Literature |
-| 2/13 | Gustavo | Literature |
-| 2/20 | Izzy | Literature |
-| 2/27 | Jake | Research |
-| 3/5 | Debapriya | Literature |
-| 3/12 | Sara | Research |
-| 3/19 | Teagan | Literature |
-| 3/26 | Izzy | Research |
-| 4/2 | Gustavo | Literature |
-| 4/9 | Debapriya | Research |
+| 4/23 | Undergrads | Research |
+| 5/7 | Teagan | Research |
+| 5/14 | Bryon | Literature |
+| 5/21 | Jake | Research |
+| 5/28 | Sara | Literature |
+| 6/4 | no meeting |  |
+| 6/11 | Sara | Research |
+| 6/18 | Izzy | Literature|
+| 6/25 | Gustavo | Research |
+| 7/2 | Debapriya | Literature|
+| 7/9 | Izzy | Research |
+| 7/16 | Teagan | Literature|
+| 7/23 | Debapriya | Research |
+| 7/30 | Jake | Literature|
+| 8/6 | Teagan | Research |
+| 8/13 | Gustavo | Literature|
+| 8/20 | Jake | Research |
