@@ -20,12 +20,12 @@ Group meeting is an opportunity to discuss ongoing research progress, recent lit
 | --------- | ------------ | ------ |
 | 4/23 | Undergrads | Research |
 | 5/7 | Teagan | Research |
-| 5/14 | Bryon | Literature |
+| 5/14 | Izzy | Literature |
 | 5/21 | Jake | Research |
 | 5/28 | Sara | Literature |
 | 6/4 | no meeting |  |
 | 6/11 | Sara | Research |
-| 6/18 | Izzy | Literature|
+| 6/18 | Bryon | Literature|
 | 6/25 | Gustavo | Research |
 | 7/2 | Debapriya | Literature|
 | 7/9 | Izzy | Research |
