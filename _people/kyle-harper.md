@@ -1,7 +1,7 @@
 ---
 role:
 - undergrad
-- current
+- alumni
 layout: person
 title: Kyle Harper
 sub_heading: Undergraduate Student
@@ -10,4 +10,4 @@ email: ''
 linkedin: ''
 
 ---
-Kyle is a Chemistry major focused on performing the chemical synthesis of small-molecule probes to be used in chemical proteomics experiments.
+Kyle is a Chemistry major focused on performing the chemical synthesis of small-molecule probes to be used in chemical proteomics experiments. Kyle currently works in medical device sales.

@@ -32,6 +32,5 @@ Group meeting is an opportunity to discuss ongoing research progress, recent lit
 | 7/16 | Teagan | Literature|
 | 7/23 | Debapriya | Research |
 | 7/30 | Jake | Literature|
-| 8/6 | Teagan | Research |
-| 8/13 | Gustavo | Literature|
-| 8/20 | Jake | Research |
+| 8/6 | Gustavo | Research |
+| 8/13 | Teagan | Research |

@@ -1,7 +1,7 @@
 ---
 role:
 - graduate
-- current
+- alumni
 layout: person
 title: Sara Elshaboury
 sub_heading: PULSe Graduate Student
@@ -11,4 +11,4 @@ email: selshabo@purdue.edu
 linkedin: https://www.linkedin.com/in/sarasedky
 
 ---
-Sara joined the Purdue's interdisciplinary life sciences graduate program ([PULSe](https://www.purdue.edu/gradschool/pulse/)) in Fall 2022.
+Sara joined the Purdue's interdisciplinary life sciences graduate program ([PULSe](https://www.purdue.edu/gradschool/pulse/)) in Fall 2022. Sara graduated with a Master's degree in Chemistry in August 2024.
