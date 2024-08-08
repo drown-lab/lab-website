@@ -13,10 +13,11 @@ layout: default
 	<div class="container pure-g">
 		<div class="pure-u-1">
             <div class="content">
-                {% if page.group_photo and page.group_photo != "" %}
-                <img alt="Group Photo" src="{{ page.group_photo | absolute_url }}">
-                {% endif %}
+                
                 <div class="content-narrow">
+                    {% if page.group_photo and page.group_photo != "" %}
+                    <img alt="Group Photo" src="{{ page.group_photo | absolute_url }}">
+                    {% endif %}
                     {{ content }}
                 </div>
 			</div>
