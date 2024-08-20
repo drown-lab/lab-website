@@ -10,27 +10,28 @@ menu:
 
 ---
 
-The Drown Lab meets weekly on Tuesdays at 1:30pm in BIND 102.
+The Drown Lab meets weekly on Tuesdays at 9am in BIND 102.
 
 Group meeting is an opportunity to discuss ongoing research progress, recent literature, and logistics.
 
 ## Spring 2024 Schedule
 
-| Date | Presenter | Topic | 
+| Date | Presenter | Topic |
 | --------- | ------------ | ------ |
-| 4/23 | Undergrads | Research |
-| 5/7 | Teagan | Research |
-| 5/14 | Izzy | Literature |
-| 5/21 | Jake | Research |
-| 5/28 | Sara | Literature |
-| 6/4 | no meeting |  |
-| 6/11 | Sara | Research |
-| 6/18 | Bryon | Literature|
-| 6/25 | Gustavo | Research |
-| 7/2 | Debapriya | Literature|
-| 7/9 | Izzy | Research |
-| 7/16 | Teagan | Literature|
-| 7/23 | Debapriya | Research |
-| 7/30 | Jake | Literature|
-| 8/6 | Gustavo | Research |
-| 8/13 | Teagan | Research |
+| 8/27 | Bryon | Literature |
+| 9/3 | Izzy | Research |
+| 9/10 | Teagan | Practice OP |
+| 9/17 | Miranda | Literature |
+| 9/24 | Debapriya | Research |
+| 10/1 | Izzy | Literature |
+| 10/8 | Gustavo | Research |
+| 10/15 | Debapriya | Literature |
+| 10/22 | Miranda | Research |
+| 10/29 | Teagan | Literature |
+| 11/5 | No meeting |  |
+| 11/12 | Teagan | Research |
+| 11/19 | Gustavo | Literature |
+| 11/26 | Izzy | Research |
+| 12/3 | Bryon | Literature |
+| 12/10 | Debapriya | Research |
+| 12/17 | Miranda | Literature |
