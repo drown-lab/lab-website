@@ -10,28 +10,29 @@ menu:
 
 ---
 
-The Drown Lab meets weekly on Tuesdays at 9am in BIND 102.
+The Drown Lab meets weekly on Wednesdays at 1:30pm in BIND 221.
 
 Group meeting is an opportunity to discuss ongoing research progress, recent literature, and logistics.
 
-## Spring 2024 Schedule
+## Spring 2025 Schedule
 
 | Date | Presenter | Topic |
 | --------- | ------------ | ------ |
-| 8/27 | Bryon | Literature |
-| 9/3 | Izzy | Research |
-| 9/10 | Teagan | Practice OP |
-| 9/17 | Miranda | Literature |
-| 9/24 | Debapriya | Research |
-| 10/1 | Izzy | Literature |
-| 10/8 | Gustavo | Research |
-| 10/15 | Debapriya | Literature |
-| 10/22 | Miranda | Research |
-| 10/29 | Teagan | Literature |
-| 11/5 | No meeting |  |
-| 11/12 | Teagan | Research |
-| 11/19 | Gustavo | Literature |
-| 11/26 | Izzy | Research |
-| 12/3 | Bryon | Literature |
-| 12/10 | Debapriya | Research |
-| 12/17 | Miranda | Literature |
+| 15-Jan | Miranda | Literature |
+| 22-Jan | Bryon | State of the Lab and Safety |
+| 29-Jan | | ASMS abstracts |
+| 5-Feb | Gustavo | Research |
+| 12-Feb | Izzy | Literature (Seminar practice) |
+| 19-Feb | Teagan | Research |
+| 26-Feb | Debapriya | Literature |
+| 5-Mar | Miranda | Research |
+| 12-Mar | Teagan | Literature |
+| 19-Mar | Izzy | Research |
+| 26-Mar | Gustavo | Literature |
+| 2-Apr | Debapriya | Research |
+| 9-Apr | Maria | Literature |
+| 16-Apr | Ali | Research |
+| 23-Apr | Kithmadie | Literature |
+| 30-Apr | Maria | Research |
+| 7-May | Ali | Literature |
+| 14-May | Kithmadie | Research |
