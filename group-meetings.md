@@ -10,29 +10,25 @@ menu:
 
 ---
 
-The Drown Lab meets weekly on Wednesdays at 1:30pm in BIND 221.
+The Drown Lab meets weekly on Wednesdays at 10am in BIND 221.
 
 Group meeting is an opportunity to discuss ongoing research progress, recent literature, and logistics.
 
-## Spring 2025 Schedule
+## Summer 2025 Schedule
 
-| Date | Presenter | Topic |
+| Date | Research | Literature |
 | --------- | ------------ | ------ |
-| 15-Jan | Miranda | Literature |
-| 22-Jan | Bryon | State of the Lab and Safety |
-| 29-Jan | | ASMS abstracts |
-| 5-Feb | Gustavo | Research |
-| 12-Feb | Izzy | Literature (Seminar practice) |
-| 19-Feb | Teagan | Research |
-| 26-Feb | Debapriya | Literature |
-| 5-Mar | Miranda | Research |
-| 12-Mar | Teagan | Literature |
-| 19-Mar | Izzy | Research |
-| 26-Mar | Gustavo | Literature |
-| 2-Apr | Debapriya | Research |
-| 9-Apr | Maria | Literature |
-| 16-Apr | Ali | Research |
-| 23-Apr | Kithmadie | Literature |
-| 30-Apr | Maria | Research |
-| 7-May | Ali | Literature |
-| 14-May | Kithmadie | Research |
+| 21-May | TopPIC tutorial | |
+| 28-May | ASMS poster presentations | |
+| 4-Jun | no meeting | |
+| 11-Jun | Miranda | Ali |
+| 18-Jun | Teagan | Miranda |
+| 25-Jun | Debapriya | Izzy |
+| 2-Jul | Izzy | Debapriya |
+| 9-Jul | Ali | Teagan |
+| 16-Jul | Kithmadie | Maria |
+| 23-Jul | no meeting | |
+| 30-Jul | Olivia | Bryon |
+| 6-Aug | Maria | Kithmadie |
+| 13-Aug | Miranda | Ali |
+| 20-Aug | Teagan | Miranda |
