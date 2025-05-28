@@ -1,7 +1,7 @@
 ---
 role:
 - undergrad
-- current
+- alumni
 layout: person
 title: Maria Margineantu
 sub_heading: Undergraduate Student

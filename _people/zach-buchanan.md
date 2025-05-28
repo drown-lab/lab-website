@@ -1,7 +1,7 @@
 ---
 role:
 - undergrad
-- current
+- alumni
 layout: person
 title: Zach Buchanan
 sub_heading: Undergraduate Student
