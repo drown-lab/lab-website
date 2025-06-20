@@ -28,7 +28,7 @@ Group meeting is an opportunity to discuss ongoing research progress, recent lit
 | 9-Jul | Ali | Teagan |
 | 16-Jul | Kithmadie | Maria |
 | 23-Jul | no meeting | |
-| 30-Jul | Olivia | Bryon |
-| 6-Aug | Maria | Kithmadie |
+| 30-Jul | Maria | Bryon |
+| 6-Aug | Olivia | Kithmadie |
 | 13-Aug | Miranda | Ali |
 | 20-Aug | Teagan | Miranda |
