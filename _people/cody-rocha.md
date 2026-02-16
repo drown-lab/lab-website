@@ -5,6 +5,7 @@ role:
 layout: person
 title: Cody Rocha
 sub_heading: Chemistry Graduate Student
+class: 2025
 thumbnail: "/uploads/2026/02/13/cody_headshot.jpg"
 email: 'rocha27@purdue.edu'
 linkedin: ''

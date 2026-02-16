@@ -5,6 +5,7 @@ role:
 layout: person
 title: Ashley Bean
 sub_heading: Chemistry Graduate Student
+class: 2025
 thumbnail: "/uploads/2026/02/13/ashley_headshot.jpg"
 email: 'bean56@purdue.edu'
 linkedin: ''
