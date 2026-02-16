@@ -7,7 +7,7 @@ role:
 thumbnail: "/uploads/2022/03/04/drown-headshot.jpg"
 sub_heading: Assistant Professor
 email: bsdrown@purdue.edu
-linkedin: https://www.linkedin.com/in/bryon-drown-9aa73220/
+linkedin: 'https://www.linkedin.com/in/bryon-drown-9aa73220/'
 layout: person
 
 ---

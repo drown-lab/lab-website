@@ -10,7 +10,7 @@ menu:
 
 ---
 
-The Drown Lab meets weekly on Fridays at 3pm in BIND 102.
+The Drown Lab meets weekly on Tuesdays at 5:15pm in BIND 102.
 
 Group meeting is an opportunity to discuss ongoing research progress, recent literature, and logistics.
 
@@ -18,19 +18,22 @@ Group meeting is an opportunity to discuss ongoing research progress, recent lit
 
 | Date | Research | Literature |
 | --------- | ------------ | ------ |
-| 29-Aug	| Debapriya |	 Izzy |
-| 5-Sep |	 Izzy |	 Debapriya |
-| 12-Sep	| Ali 	| Teagan |
-| 19-Sep	| Kithmadie |	 Maria |
-| 26-Sep	| no meeting	 | |
-| 3-Oct	 | Maria 	| Kithmadie | 
-| 10-Oct	| Teagan |	 Ali |
-| 17-Oct	| Miranda 	| Izzy | 
-| 24-Oct	| no meeting | |
-| 7-Nov | Debapriya 	| Miranda |
-| 14-Nov	| Izzy 	| Debapriya |
-| 21-Nov	| Ali 	| Teagan |
-| 28-Nov	| no meeting | |
-| 5-Dec |	Kithmadie 	| Maria | 
-| 12-Dec	| undergrads 	| Ali |
-| 19-Dec  |	no meeting	| |
+| 20-Jan	| Maria |	 Izzy(safety) |
+| 27-Jan  |	 Teagan |	Kithmadie |
+| 3-Feb	 | Miranda	| Izzy |
+| 10-Feb | Debapriya | Miranda |
+| 17-Feb	| Izzy |	Ashley |
+| 24-Feb	| Ali | Cody |
+| 3-Mar	 | Kithmadie	| Debapriya | 
+| 10-Mar	| Ashley |	Maria |
+| 17-Mar	| Cody	| Teagan | 
+| 24-Mar	| Maria | Ali |
+| 31-Mar | Teagan 	| Kithmadie |
+| 7-Apr	| Miranda	| Izzy |
+| 14-Apr	| Debapriya	| Miranda |
+| 21-Apr | Izzy | Ashley |
+| 28-Apr	| Olivia | Cody |
+| 5-May |	Ali	| Debapriya | 
+| 12-May	| Kithmadie	| Maria |
+| 19-May  |	Ashley	| Teagan |
+| 26-May  |	Cody	| Ali |
