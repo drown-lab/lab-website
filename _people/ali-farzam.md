@@ -6,7 +6,7 @@ layout: person
 title: Ali Farzam
 sub_heading: Chemistry Graduate Student
 class: 2024
-thumbnail: "uploads/2025/01/15/farzam-headshot.jpg"
+thumbnail: "uploads/2026/06/10/ali_headshot.jpg"
 email: afarzam@purdue.edu
 linkedin: 'https://www.linkedin.com/in/ali-farzam-631986213/'
 
