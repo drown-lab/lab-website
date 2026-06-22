@@ -10,7 +10,7 @@ menu:
 
 ---
 
-The Drown Lab meets weekly on Tuesdays at 5:15pm in BIND 102.
+The Drown Lab meets weekly on Tuesdays at 4pm in BIND 221.
 
 Group meeting is an opportunity to discuss ongoing research progress, recent literature, and logistics.
 
