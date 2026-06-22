@@ -14,26 +14,29 @@ The Drown Lab meets weekly on Tuesdays at 5:15pm in BIND 102.
 
 Group meeting is an opportunity to discuss ongoing research progress, recent literature, and logistics.
 
-## Fall 2025 Schedule
+## Summer 2026 Schedule
 
 | Date | Research | Literature |
 | --------- | ------------ | ------ |
-| 20-Jan	| Maria |	 Izzy(safety) |
-| 27-Jan  |	 Teagan |	Kithmadie |
-| 3-Feb	 | Miranda	| Izzy |
-| 10-Feb | Debapriya | Miranda |
-| 17-Feb	| Izzy |	Ashley |
-| 24-Feb	| Ali | Cody |
-| 3-Mar	 | Kithmadie	| Debapriya | 
-| 10-Mar	| Ashley |	Maria |
-| 17-Mar	| Cody	| Teagan | 
-| 24-Mar	| Maria | Ali |
-| 31-Mar | Teagan 	| Kithmadie |
-| 7-Apr	| Miranda	| Izzy |
-| 14-Apr	| Debapriya	| Miranda |
-| 21-Apr | Izzy | Ashley |
-| 28-Apr	| Olivia | Cody |
-| 5-May |	Ali	| Debapriya | 
-| 12-May	| Kithmadie	| Maria |
-| 19-May  |	Ashley	| Teagan |
-| 26-May  |	Cody	| Ali |
+| 2-Jun | Maria | Stats intro workshop |
+| 9-Jun | Teagan | Izzy |
+| 16-Jun | Miranda | Kithmadie |
+| 23-Jun | Debapriya | Miranda |
+| 30-Jun | Izzy | Debapriya |
+| 7-Jul | Ali | Ashley |
+| 14-Jul | Kithmadie | Ali |
+| 21-Jul | Ashley | Cody |
+| 28-Jul | Cody | Maria |
+| 4-Aug | Maria | Izzy |
+| 11-Aug | Debapriya | Kithmadie |
+| 18-Aug | Izzy | Ashley |
+
+## Fall 2026 Schedule (tentative)
+
+| Date | Research | Literature |
+| --------- | ------------ | ------ |
+| 25-Aug | Ali | Debapriya |
+| 1-Sep | Teagan | Ali |
+| 8-Sep | Kithmadie | Cody |
+| 15-Sep | Ashley | Teagan |
+| 22-Sep | Cody | Maria |
