@@ -10,33 +10,17 @@ menu:
 
 ---
 
-The Drown Lab meets weekly on Tuesdays at 4pm in BIND 221.
+The Drown Lab meets weekly on Mondays at 4pm in BIND 102.
 
 Group meeting is an opportunity to discuss ongoing research progress, recent literature, and logistics.
 
-## Summer 2026 Schedule
+## Fall 2026 Schedule (partial)
 
 | Date | Research | Literature |
 | --------- | ------------ | ------ |
-| 2-Jun | Maria | Stats intro workshop |
-| 9-Jun | Teagan | Izzy |
-| 16-Jun | Miranda | Kithmadie |
-| 23-Jun | Debapriya | Miranda |
-| 30-Jun | Izzy | Debapriya |
-| 7-Jul | Ali | Ashley |
-| 14-Jul | Kithmadie | Ali |
-| 21-Jul | Ashley | Cody |
-| 28-Jul | Cody | Maria |
-| 4-Aug | Maria | Izzy |
-| 11-Aug | Debapriya | Kithmadie |
-| 18-Aug | Izzy | Ashley |
-
-## Fall 2026 Schedule (tentative)
-
-| Date | Research | Literature |
-| --------- | ------------ | ------ |
-| 25-Aug | Ali | Debapriya |
-| 1-Sep | Teagan | Ali |
-| 8-Sep | Kithmadie | Cody |
-| 15-Sep | Ashley | Teagan |
-| 22-Sep | Cody | Maria |
+| 24-Aug | Bryon | n/a |
+| 31-Aug | Ali | Debapriya |
+| 7-Sep | Teagan | Ali |
+| 14-Sep | Kithmadie | Cody |
+| 21-Sep | Ashley | Teagan |
+| 28-Sep | Cody | Maria |
