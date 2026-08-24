@@ -11,4 +11,4 @@ email: afarzam@purdue.edu
 linkedin: 'https://www.linkedin.com/in/ali-farzam-631986213/'
 
 ---
-Ali joined Purdue in 2024 as an Analytical Chemistry graduate student. He attended the University of Ottawa (Ottawa, ON, Canada) where he received his undergraduate degree in Biomedical Sciences and his Master's degree in Chemistry. He held positions as a scientist and regulatory affairs specialist in industry before continuing his education at Purdue.
+Ali joined Purdue in 2024 as an Analytical Chemistry graduate student. He attended the University of Ottawa (Ottawa, ON, Canada) where he received his undergraduate degree in Biomedical Sciences and his Master's degree in Chemistry. He held positions as a scientist and regulatory affairs specialist in industry before continuing his education at Purdue. In his spare time, Ali enjoys lifting weights, playing video games, and building Lego sets.
