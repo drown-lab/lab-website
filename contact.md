@@ -17,4 +17,4 @@ menu:
 
 ## Letters of Recommendation
 
-Undergraduate students who have completed a course with Prof. Drown and would like to request a letter of recommendation are invited to complete the [following form](https://docs.google.com/forms/d/e/1FAIpQLSehz_WZ8FDuOb5T6OM6aeswHqj39eM3wKWU3FvBMExx-CwJCg/viewform?usp=sf_link).
+Undergraduate students who have completed a course with Prof. Drown and would like to request a letter of recommendation please send me an email at [bsdrown@purdue.edu](mailto:bsdrown@purdue.edu) with a copy of your resume/CV and short description of your career plans.
