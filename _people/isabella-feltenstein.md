@@ -10,4 +10,4 @@ thumbnail: "/uploads/2023/11/18/izzy-headshot.png"
 email: ifeltens@purdue.edu
 
 ---
-Izzy came to Purdue University in 2023 to pursue her PhD in Analytical Chemistry. Her alma mater is Missouri S&T (Rolla, MO), where she received her B.S. in chemistry with a biochemistry emphasis. In her free time, she likes to try new recipes from Cooks Illustrated and hang out with her cat, Monica.
+Izzy is a fourth year Ph.D. candidate pursuing her PhD in Analytical Chemistry. Her alma mater is Missouri S&T, where she received her B.S. in chemistry. In her free time, she likes to try new recipes from Cooks Illustrated and hang out with her cat, Monica.
