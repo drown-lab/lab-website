@@ -1,0 +1,21 @@
+{% comment %}
+    One schedule table for the Group Meetings page. Pass meetings=<array>.
+    A row with a `note` (e.g. "No meeting") spans both presenter columns.
+{% endcomment %}
+
+<table class="table">
+    {% if include.caption %}<caption class="visually-hidden">{{ include.caption }}</caption>{% endif %}
+    <thead><tr><th scope="col" class="col-date">Date</th><th scope="col">Research</th><th scope="col">Literature</th></tr></thead>
+    <tbody>
+        {% for meeting in include.meetings %}
+        <tr>
+            <td>{{ meeting.date }}</td>
+            {% if meeting.note %}
+            <td colspan="2" class="muted">{{ meeting.note }}</td>
+            {% else %}
+            <td>{{ meeting.research }}</td><td>{{ meeting.literature }}</td>
+            {% endif %}
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

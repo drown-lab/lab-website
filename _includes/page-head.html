@@ -1,0 +1,16 @@
+{% comment %}
+	Page header for pages without a bespoke layout: eyebrow (the page title,
+	shown when a separate heading is set), H1, optional lede and button.
+{% endcomment %}
+
+{% assign heading = page.heading | default: page.title %}
+<section class="page-head">
+	<div class="container">
+		{% if heading != page.title %}<div class="eyebrow">{{ page.title }}</div>{% endif %}
+		<h1>{{ heading }}</h1>
+		{% if page.sub_heading and page.sub_heading != "" %}<p class="lede">{{ page.sub_heading }}</p>{% endif %}
+		{% if page.hero_button %}
+		<a class="btn btn-primary blueprint" href="{{ page.hero_button.href | absolute_url }}">{{ page.hero_button.text }}{% include corners.html %}</a>
+		{% endif %}
+	</div>
+</section>

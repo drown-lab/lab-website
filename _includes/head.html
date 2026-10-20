@@ -1,19 +1,14 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>{{ page.title }} - {{ site.title }}</title>
-  <meta name="description" content="{% if .page.description %}{{ .page.description }}{% else %}{{ .site.description }}{% endif %}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/png" href="{{ "/img/favicon.png" | absolute_url }}"/>
-  <link rel="stylesheet" href="https://yui-s.yahooapis.com/pure/0.6.0/pure-min.css">
-  <!--[if lte IE 8]>
-  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-old-ie-min.css">
-  <![endif]-->
-  <!--[if gt IE 8]><!-->
-  <link rel="stylesheet" href="https://yui-s.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
-  <!--<![endif]-->
-  <link rel="stylesheet" href="{{ "/css/main.min.css" | absolute_url }}">
+  <title>{% if page.url == "/" %}{{ site.title }}{% else %}{{ page.title }} - {{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="icon" type="image/png" href="{{ "/img/favicon.png" | absolute_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700&family=Barlow+Condensed:wght@400;600&display=swap">
+  <link rel="stylesheet" href="{{ "/css/site.css" | absolute_url }}">
 </head>
 <body>

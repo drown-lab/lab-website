@@ -3,6 +3,10 @@ short_title: Drown Lab
 description: Drown Lab
 baseurl:
 permalink: "/:path/"
+include:
+  - _redirects
+exclude:
+  - design_handoff_lab_site_redesign
 defaults:
   - scope:
       path: ""
@@ -20,8 +24,7 @@ collections:
   posts:
     output: false
   projects:
-    output: true
-    permalink: "/projects/:path/"
+    output: false
   publications:
     output: true
     permalink: "/publications/:path/"

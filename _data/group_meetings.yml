@@ -1,0 +1,24 @@
+# Group meeting schedule shown on /group-meetings/.
+# Update once per semester. Each meeting needs a date plus either
+# research + literature presenters, or a note (e.g. "No meeting").
+term: Fall 2026
+range: 24 Aug – 21 Dec
+meetings:
+  - { date: 24-Aug, research: Bryon, literature: n/a }
+  - { date: 31-Aug, research: Ali, literature: Debapriya }
+  - { date: 7-Sep, research: Teagan, literature: Ali }
+  - { date: 14-Sep, research: Kithmadie, literature: Cody }
+  - { date: 21-Sep, research: Ashley, literature: Teagan }
+  - { date: 28-Sep, research: Cody, literature: Maria }
+  - { date: 5-Oct, research: Debapriya, literature: Kithmadie }
+  - { date: 12-Oct, research: Maria, literature: Ashley }
+  - { date: 19-Oct, research: Izzy, literature: Debapriya }
+  - { date: 26-Oct, research: Ali, literature: Izzy }
+  - { date: 2-Nov, research: Teagan, literature: Cody }
+  - { date: 9-Nov, research: Kithmadie, literature: Ali }
+  - { date: 16-Nov, research: Ashley, literature: Teagan }
+  - { date: 23-Nov, note: No meeting }
+  - { date: 30-Nov, research: Cody, literature: Maria }
+  - { date: 7-Dec, research: undergrads, literature: Kithmadie }
+  - { date: 14-Dec, research: Debapriya, literature: Ashley }
+  - { date: 21-Dec, research: Maria, literature: Izzy }

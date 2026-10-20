@@ -1,35 +1,24 @@
 ---
 layout: default
 ---
-
 {% comment %}
-	This layout is used to generate custom landing page layouts,
-	e.g people.md
+	People page (people.md): group photo, intro text, then lab members.
 {% endcomment %}
 
-{% assign stripped_content = content | strip_newlines %}
-{% if content and stripped_content != "" %}
-<section class="about">
-	<div class="container pure-g">
-		<div class="pure-u-1">
-            <div class="content">
-                
-                <div class="content-narrow">
-                    {% if page.group_photo and page.group_photo != "" %}
-                    <img alt="Group Photo" src="{{ page.group_photo | absolute_url }}">
-                    {% endif %}
-                    {{ content }}
-                </div>
-			</div>
+{% include page-head.html %}
+
+<section class="page-body">
+	<div class="container">
+		{% if page.group_photo and page.group_photo != "" %}
+		<figure class="figure photo blueprint">
+			{% include corners.html %}
+			<img alt="Group Photo" src="{{ page.group_photo | absolute_url }}">
+		</figure>
+		{% endif %}
+		<div class="prose prose-columns">
+			{{ content }}
 		</div>
+
+		{% include staff.html %}
 	</div>
 </section>
-{% endif %}
-
-{% include services.html %}
-
-{% include news.html %}
-
-{% include partners.html %}
-
-{% include staff.html %}

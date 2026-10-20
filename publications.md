@@ -7,7 +7,7 @@ menu:
   footer:
     identifier: _publications
     url: "/publications/"
-    weight: 2
+    weight: 3
   navigation:
     identifier: _publications
     weight: 3
