@@ -15,13 +15,6 @@ format:
   text: Ongoing research progress
 - title: Literature
   text: Recent literature
-menu:
-  footer:
-    identifier: _groupmeetings
-    weight: 4
-  navigation:
-    identifier: _groupmeetings
-    weight: 4
 ---
 {% comment %}
   The semester schedule lives in _data/group_meetings.yml.

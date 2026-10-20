@@ -1,0 +1,16 @@
+# Site navigation, in order. `footer: true` also lists the link in the
+# footer's "Site" column.
+- title: Research
+  url: /research/
+  footer: true
+- title: People
+  url: /people/
+  footer: true
+- title: Publications
+  url: /publications/
+  footer: true
+- title: Group Meetings
+  url: /group-meetings/
+  footer: true
+- title: Contact
+  url: /contact/

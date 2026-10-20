@@ -29,12 +29,9 @@ collections:
     output: true
     permalink: "/publications/:path/"
     sort_by: number
-# tag_page_layout: tag_page
-# tag_page_dir: tag
 jekyll-archives:
   enabled: all
   layout: "archive"
 plugins:
-  - jekyll-menus
   - jekyll-feed
   - jekyll-archives

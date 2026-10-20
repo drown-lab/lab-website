@@ -10,11 +10,4 @@ lede: Four programs, run on modern protein mass spectrometry. Students in the Dr
 join:
   label: Join or collaborate
   text: If you are interested in joining or collaborating with the Drown Research Group, contact Prof. Drown.
-menu:
-  footer:
-    identifier: _research
-    weight: 1
-  navigation:
-    identifier: _research
-    weight: 1
 ---

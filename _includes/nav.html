@@ -1,5 +1,5 @@
 {% comment %}
-	Site header: text wordmark plus the navigation menu from jekyll-menus.
+	Site header: text wordmark plus the links in _data/navigation.yml.
 	Person pages mark People as current.
 {% endcomment %}
 
@@ -7,8 +7,8 @@
 	<div class="container">
 		<a class="wordmark" href="{{ "/" | absolute_url }}">{{ site.title }}</a>
 		<nav class="site-nav" aria-label="Main">
-			{% for link in site.menus.navigation %}
-			<a href="{{ link.url | absolute_url }}"{% if page.url == link.url or page.collection == "people" and link.identifier == "_people" %} aria-current="page"{% endif %}>{{ link.title }}</a>
+			{% for link in site.data.navigation %}
+			<a href="{{ link.url | absolute_url }}"{% if page.url == link.url or page.collection == "people" and link.url == "/people/" %} aria-current="page"{% endif %}>{{ link.title }}</a>
 			{% endfor %}
 		</nav>
 	</div>

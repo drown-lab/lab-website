@@ -10,9 +10,13 @@
 {% assign current_people = site.people | where: "role", "current" %}
 {% assign categories = "advisor|postdoc|graduate|undergrad" | split: "|" %}
 {% for category in categories %}
-    {% assign people = current_people | where: "role", category | sort: "class" %}
-    {% for person in people %}
-        {% include person-card.html person=person show_class=true %}
+    {% comment %} By class year, then alphabetically so ties have a fixed order {% endcomment %}
+    {% assign class_groups = current_people | where: "role", category | group_by: "class" | sort: "name" %}
+    {% for group in class_groups %}
+        {% assign people = group.items | sort: "title" %}
+        {% for person in people %}
+            {% include person-card.html person=person show_class=true %}
+        {% endfor %}
     {% endfor %}
 {% endfor %}
 </div>

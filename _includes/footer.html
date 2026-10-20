@@ -19,7 +19,8 @@
 		<div>
 			<div class="smallcaps">Site</div>
 			<nav class="footer-links" aria-label="Footer">
-				{% for item in site.menus.footer %}
+				{% assign footer_links = site.data.navigation | where: "footer", true %}
+				{% for item in footer_links %}
 				<a href="{{ item.url | absolute_url }}">{{ item.title }}</a>
 				{% endfor %}
 			</nav>
