@@ -1,29 +1,55 @@
 ---
 layout: default
 ---
-
 {% comment %}
-	This layout is used to generate custom landing page layouts,
-	e.g index.md and about.md
+	Home page (index.md). Copy lives in the page's front matter; the program
+	index and research cards are built from the _projects/ collection.
 {% endcomment %}
 
-{% assign stripped_content = content | strip_newlines %}
-{% if content and stripped_content != "" %}
-<section class="about">
-	<div class="container pure-g">
-		<div class="pure-u-1">
-			<div class="content content-narrow">
-				{{ content }}
-			</div>
+{% assign projects = site.projects | sort: "order" %}
+{% assign research_url = "/research/" | absolute_url %}
+
+<section class="hero">
+	<div class="container">
+		<div>
+			<div class="eyebrow">{{ page.eyebrow }}</div>
+			<h1>{{ page.heading }}</h1>
+			<p class="lede">{{ page.lede }}</p>
+			<a class="btn btn-primary blueprint" href="{{ page.hero_button.href | absolute_url }}">{{ page.hero_button.text }}{% include corners.html %}</a>
+		</div>
+		<nav class="program-index" aria-label="Research programs">
+			{% for project in projects %}
+			<a href="{{ research_url }}#{{ project.slug }}"><span>{{ project.short_title }}</span><span class="num">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span></a>
+			{% endfor %}
+		</nav>
+	</div>
+</section>
+
+<section class="band hypothesis">
+	<div class="container">
+		<div class="band-grid">
+			<div class="band-label">{{ page.hypothesis.label }}</div>
+			<p class="band-statement">{{ page.hypothesis.text }}</p>
 		</div>
 	</div>
 </section>
-{% endif %}
 
-{% include services.html %}
-
-{% include news.html %}
-
-{% include partners.html %}
-
-{% include staff.html %}
+<section class="areas">
+	<div class="container">
+		<div class="section-head">
+			<h2>Research areas</h2>
+			<a class="section-link" href="{{ research_url }}">All research &rarr;</a>
+		</div>
+		<div class="card-grid">
+			{% for project in projects %}
+			<a class="card blueprint" href="{{ research_url }}#{{ project.slug }}">
+				{% include corners.html %}
+				<div class="kicker">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+				<div class="card-title">{{ project.card_title | default: project.title }}</div>
+				<p class="card-body">{{ project.summary }}</p>
+				<div class="card-meta">Read more &rarr;</div>
+			</a>
+			{% endfor %}
+		</div>
+	</div>
+</section>

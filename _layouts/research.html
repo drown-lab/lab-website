@@ -1,0 +1,67 @@
+---
+layout: default
+---
+{% comment %}
+	Research page (research.md). One section per document in _projects/,
+	sorted by `order`; each section's id is the project's file name so the
+	home page and jump index can link to it.
+{% endcomment %}
+
+{% assign projects = site.projects | sort: "order" %}
+
+<section class="page-head">
+	<div class="container">
+		<div class="eyebrow">{{ page.eyebrow }}</div>
+		<h1>{{ page.heading }}</h1>
+		<p class="lede">{{ page.lede }}</p>
+	</div>
+</section>
+
+<div class="container">
+	<nav class="jump-index" aria-label="Research programs">
+		{% for project in projects %}
+		<a href="#{{ project.slug }}"><span class="num">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span>{{ project.short_title }}</a>
+		{% endfor %}
+	</nav>
+</div>
+
+<div class="programs">
+	<div class="container">
+		{% for project in projects %}
+		<section class="program" id="{{ project.slug }}">
+			<div>
+				<div class="kicker">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+				<h2>{{ project.title }}</h2>
+				<div class="program-body">{{ project.content }}</div>
+				{% if project.skills %}
+				<div class="smallcaps">Skills to learn</div>
+				<ul>
+					{% for skill in project.skills %}<li>{{ skill }}</li>{% endfor %}
+				</ul>
+				{% endif %}
+			</div>
+			{% if project.figure or project.figure_include %}
+			<figure class="figure blueprint">
+				{% include corners.html %}
+				{% if project.figure_include %}
+				{% include {{ project.figure_include }} %}
+				{% else %}
+				<img src="{{ project.figure | absolute_url }}" alt="{{ project.figure_alt }}">
+				{% endif %}
+				{% if project.figure_draft %}<figcaption>Draft schematic — replace with lab figure</figcaption>{% endif %}
+			</figure>
+			{% endif %}
+		</section>
+		{% endfor %}
+	</div>
+</div>
+
+<section class="band join">
+	<div class="container">
+		<div class="band-grid">
+			<div class="band-label">{{ page.join.label }}</div>
+			<p class="band-statement">{{ page.join.text }}</p>
+			<a class="btn btn-on-dark blueprint" href="mailto:{{ site.data.information.email }}">{{ site.data.information.email }}{% include corners.html %}</a>
+		</div>
+	</div>
+</section>

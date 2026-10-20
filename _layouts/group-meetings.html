@@ -1,0 +1,61 @@
+---
+layout: default
+---
+{% comment %}
+	Group Meetings page (group-meetings.md). The semester schedule comes from
+	_data/group_meetings.yml and is split evenly into two tables.
+{% endcomment %}
+
+{% assign schedule = site.data.group_meetings %}
+{% assign meetings = schedule.meetings %}
+{% assign half = meetings.size | plus: 1 | divided_by: 2 %}
+{% assign rest = meetings.size | minus: half %}
+{% assign first_half = meetings | slice: 0, half %}
+{% assign second_half = meetings | slice: half, rest %}
+
+<section class="page-head">
+	<div class="container page-head-split">
+		<div>
+			<div class="eyebrow">{{ page.title }}</div>
+			<h1>{{ page.heading }}</h1>
+			<p class="lede">{{ page.lede }}</p>
+		</div>
+		<div class="card info-card blueprint">
+			{% include corners.html %}
+			<dl>
+				{% for item in page.details %}
+				<dt class="smallcaps">{{ item.label }}</dt><dd>{{ item.value }}</dd>
+				{% endfor %}
+			</dl>
+		</div>
+	</div>
+</section>
+
+<section class="band format">
+	<div class="container">
+		<div class="band-grid">
+			<div class="band-label">Format</div>
+			{% for item in page.format %}
+			<div>
+				<div class="format-title">{{ item.title }}</div>
+				<div class="format-text">{{ item.text }}</div>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>
+
+<section class="schedule">
+	<div class="container">
+		<div class="section-head">
+			<h2>{{ schedule.term }}</h2>
+			<span class="tag tag-neutral">{{ schedule.range }}</span>
+		</div>
+		<div class="schedule-tables">
+			{% assign caption_1 = schedule.term | append: " schedule, part 1 of 2" %}
+			{% assign caption_2 = schedule.term | append: " schedule, part 2 of 2" %}
+			{% include meeting-table.html meetings=first_half caption=caption_1 %}
+			{% include meeting-table.html meetings=second_half caption=caption_2 %}
+		</div>
+	</div>
+</section>

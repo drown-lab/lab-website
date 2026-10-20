@@ -1,0 +1,4 @@
+# Netlify redirects. The Projects page became Research; individual
+# project pages were folded into sections on /research/.
+/projects    /research/  301
+/projects/*  /research/  301

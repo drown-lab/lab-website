@@ -1,0 +1,19 @@
+{% comment %}
+    One card in the People grid. Pass person=<document>; show_class=true
+    adds the "Class of" line.
+{% endcomment %}
+
+{% assign person = include.person %}
+<a class="card blueprint person-card" href="{{ person.url | absolute_url }}">
+    {% include corners.html %}
+    {% if person.thumbnail %}
+    <img alt="" src="{{ person.thumbnail | absolute_url }}">
+    {% else %}
+    <img alt="" src="{{ "/img/placeholder-headshot.png" | absolute_url }}">
+    {% endif %}
+    <div class="card-title">{{ person.title }}</div>
+    {% if person.sub_heading %}<div class="card-sub">{{ person.sub_heading }}</div>{% endif %}
+    {% if include.show_class and person.class %}<div class="card-sub">Class of {{ person.class }}</div>{% endif %}
+    <p class="card-body">{{ person.content | strip_html | truncatewords: 25 }}</p>
+    <div class="card-meta">Read more &rarr;</div>
+</a>
